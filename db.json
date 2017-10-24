@@ -1,44 +1,44 @@
 {
-	"announcements": [
-		{
-			"id": 1,
-			"username": "sysadmin",
-			"datetime": "2017-11-01 10:00:00",
-			"message": "Kaleidoscope version 5.0 will be launched soon. The system is expected to be unavailable for approximately 60 seconds. Separate system update notifications will also be sent via e-mail to your system administrator contacts."
-		},
-		{
-			"id": 2,
-			"username": "sysadmin",
-			"datetime": "2017-09-01 10:00:00",
-			"message": "Kaleidoscope version 4.6 will be launched at 06:00GMT on the 1st of June 2016. The system is expected to be unavailable for approximately 30 minutes. Separate system update notifications will also be sent via e-mail to your system administrator contacts."
-      }
-	],
-	"default_currencies": [
-        {
-          "id": 1,
-          "name": "EUR"
-        },
-        {
-          "id": 2,
-          "name": "GBP"
-        },
-        {
-          "id": 3,
-          "name": "USD"
-        }
-	],
-	"card_products": [
-		{
-			"id": 'TSNB',
-			"name": 'T24 Black'
-		},
-		{
-			"id": 'TSNC',
-			"name": 'T24 Pay Vault'
-		},
-		{
-			"id": 'TSNA',
-			"name": 'T24 Black Shield'
-		}
-	]
+ "announcements": [
+  {
+   "id": 1,
+   "username": "sysadmin",
+   "datetime": "2017-11-01 10:00:00",
+   "message": "Kaleidoscope version 5.0 will be launched soon. The system is expected to be unavailable for approximately 60 seconds. Separate system update notifications will also be sent via e-mail to your system administrator contacts."
+  },
+  {
+   "id": 2,
+   "username": "sysadmin",
+   "datetime": "2017-09-01 10:00:00",
+   "message": "Kaleidoscope version 4.6 will be launched at 06:00GMT on the 1st of June 2016. The system is expected to be unavailable for approximately 30 minutes. Separate system update notifications will also be sent via e-mail to your system administrator contacts."
+   }
+ ],
+ "default_currencies": [
+  {
+   "id": 1,
+   "name": "EUR"
+  },
+  {
+   "id": 2,
+   "name": "GBP"
+  },
+  {
+   "id": 3,
+   "name": "USD"
+  }
+ ],
+ "card_products": [
+ {
+  "id": "TSNB",
+  "name": "T24 Black"
+ },
+ {
+  "id": "TSNC",
+  "name": "T24 Pay Vault"
+ },
+ {
+  "id": "TSNA",
+  "name": "T24 Black Shield"
+ }
+ ]
 }
